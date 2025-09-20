@@ -278,4 +278,4 @@ export const plans = [
     "cashback": 5,
     "icon": "https://www.travelguard.ca/content/dam/travelguard/us/images/logos/tg-logo-right.svg",
     "url": "https://www.travelguard.ca"
-  },
+  }]
